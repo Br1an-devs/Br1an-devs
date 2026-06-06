@@ -11,8 +11,9 @@
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=500&lines=+%E2%80%A2%E2%98%85%E2%83%9D+%F0%9D%95%AF%F0%9D%95%BA%F0%9D%95%A7%F0%9D%95%AD%F0%9D%95%A2%F0%9D%95%AD_%2B%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%AE%F0%9D%95%A7%F0%9D%95%9A-+%E2%98%85%E2%83%9D%E2%80%A2;MULTI-DEVICE%20WHATSAPP%20BOT;DEVELOPED%20BY%20%F0%9D%95%91%F0%9D%96%8A%F0%9D%95%BB%F0%9D%96%8B%F0%9D%95%AE%F0%9D%96%8A%20%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%AE%F0%9D%95%A7%F0%9D%95%9A;RELEASED%20DATE%2012%2F9%2F2024." 
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=00FF00&width=600&lines=Turning+Ideas+and+Inspirations+to+code" 
        alt="Typing SVG">
+</a>
 </a>
 
 ##  Projects
