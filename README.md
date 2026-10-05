@@ -18,10 +18,7 @@
 
 ##  Projects
 
-### 🔗 Network Security Programme
-> [github.com/Br1an-devs/phishnet-ai](https://github.com/Br1an-devs/phishnet-ai)
-
-### 🔗 Tor_Anonychat
+###### 🔗 Tor_Anonychat
 > [github.com/Br1an-devs/Tor_Anonychat](https://github.com/Br1an-devs/Tor_Anonychat)
 
 ---
