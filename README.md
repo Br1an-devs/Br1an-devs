@@ -2,13 +2,7 @@
 
 ## What I Do
 
-| Area | Passion |
-|------|---------|
-| 🛡️ **Cybersecurity** | Network security, honeypots, threat detection |
-| 🌐 **Network Engineering** | LAN/WAN, security, monitoring |
-| 💻 **Software Engineering** | Python, Django, full-stack development |
-
----
+*Cybersecurity*
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=00FF00&width=600&lines=Turning+Ideas+and+Inspirations+to+code" 
@@ -21,12 +15,11 @@
 ###### 🔗 Tor_Anonychat
 > [github.com/Br1an-devs/Tor_Anonychat](https://github.com/Br1an-devs/Tor_Anonychat)
 
----
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://wa.me/254712439034">
+  <a href="https://wa.me/25">
     <img src="https://img.shields.io/badge/Contact Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://instagram.com/_savage._4l">
